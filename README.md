@@ -2,6 +2,13 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-%20Framework-orange)](https://flask.palletsprojects.com/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-brightgreen)](https://scikit-learn.org/stable/)
 
+## 📹 Demo Video
+
+https://drive.google.com/file/d/1yJ_aF1PUVMSHI-05CpRyfDy1DcBcYQv7/view?usp=sharing
+
+---
+
+
 An interactive web application designed to predict campus placement salaries for Computer Science students based on their academic and extracurricular profiles. This project uses machine learning models to provide insights and personalized recommendations for skill enhancement.
 
 ---
