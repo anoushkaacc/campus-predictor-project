@@ -4,7 +4,7 @@
 
 ##  Demo Video
 
-[https://drive.google.com/file/d/1yJ_aF1PUVMSHI-05CpRyfDy1DcBcYQv7/view?usp=sharing](https://youtu.be/Np8k6UoHVY0)
+https://youtu.be/Np8k6UoHVY0
 
 ---
 
@@ -15,10 +15,10 @@ An interactive web application designed to predict campus placement salaries for
 
 ##  Features
 
-- ** Salary Prediction**: Predict expected salaries based on various features like GPA, internships, and technical skills.
-- ** Skill Recommendations**: Offers actionable advice to improve employability.
-- ** Web Interface**: Interactive and user-friendly interface powered by Flask.
-- ** Machine Learning**: Employs a Random Forest Classifier for accurate predictions.
+- **Salary Prediction**: Predict expected salaries based on various features like GPA, internships, and technical skills.
+- **Skill Recommendations**: Offers actionable advice to improve employability.
+- **Web Interface**: Interactive and user-friendly interface powered by Flask.
+- **Machine Learning**: Employs a Random Forest Classifier for accurate predictions.
 
 ---
 
