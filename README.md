@@ -1,10 +1,10 @@
-# 🌟 Campus Placement Predictor
+#  Campus Placement Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-%20Framework-orange)](https://flask.palletsprojects.com/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-brightgreen)](https://scikit-learn.org/stable/)
 
-## 📹 Demo Video
+##  Demo Video
 
-https://drive.google.com/file/d/1yJ_aF1PUVMSHI-05CpRyfDy1DcBcYQv7/view?usp=sharing
+[https://drive.google.com/file/d/1yJ_aF1PUVMSHI-05CpRyfDy1DcBcYQv7/view?usp=sharing](https://youtu.be/Np8k6UoHVY0)
 
 ---
 
@@ -13,16 +13,16 @@ An interactive web application designed to predict campus placement salaries for
 
 ---
 
-## ✨ Features
+##  Features
 
-- **🎓 Salary Prediction**: Predict expected salaries based on various features like GPA, internships, and technical skills.
-- **🛠️ Skill Recommendations**: Offers actionable advice to improve employability.
-- **🌐 Web Interface**: Interactive and user-friendly interface powered by Flask.
-- **📊 Machine Learning**: Employs a Random Forest Classifier for accurate predictions.
+- ** Salary Prediction**: Predict expected salaries based on various features like GPA, internships, and technical skills.
+- ** Skill Recommendations**: Offers actionable advice to improve employability.
+- ** Web Interface**: Interactive and user-friendly interface powered by Flask.
+- ** Machine Learning**: Employs a Random Forest Classifier for accurate predictions.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Backend**: Python, Flask
 - **Frontend**: HTML, CSS
@@ -35,7 +35,7 @@ An interactive web application designed to predict campus placement salaries for
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ python app.py
 Open your browser and navigate to http://127.0.0.1:5000
 
 ---
-## 🗂️ Project Structure
+##  Project Structure
 
 ```plaintext
 campus-predictor-project/
@@ -82,7 +82,7 @@ campus-predictor-project/
 ---
 
 
-# ⚙️ How It Works
+#  How It Works
 Input Features: The user inputs details such as GPA, gender, internships, and participation in hackathons. \
 Data Processing: Encodes and preprocesses the input data using Scikit-learn. \
 Model Prediction: Uses a trained Random Forest Classifier to predict the salary range. \
